@@ -1,9 +1,9 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Projeto de Produto - 3ºSEMGPI/2ºSEM2023
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 
-* [Projeto (API)](#projeto-api)
+* [Projeto de produto](#Projeto-de-produto)
 * [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -14,17 +14,16 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
-Neste semestre estamos prestando uma consultoria para uma empresa que está em transição de mercado, no ramo alimentício.
+# Projeto de produto
+Neste semestre estamos criando um móvel feito com as caracteristicas especifícas.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 30/08/2023 | concluido| [Ver Relatório]() | 
-|01 | 27/09/2023 | em progresso | [Ver Relatório]() | 
-|02|  18/10/2023| a fazer |[Ver Relatório]() | 
-|03| 08/11/2023 | a fazer|[Ver Relatório]() | 
-|04| 29/11/2023 |a fazer |[Ver Relatório]() |
-|Feira de Soluções| 12/11/2023 |a fazer |[Ver Relatório]() | 
+|Kick Off | 15/08/2023 | concluido| [Ver Relatório]() | 
+|01 | 12/09/2023 | concluido | [Ver Relatório]() | 
+|02|  00/00/2023| a fazer |[Ver Relatório]() | 
+|03| 00/00/2023 | a fazer|[Ver Relatório]() | 
+|04| 00/00/2023 |a fazer |[Ver Relatório]() | 
 
 # Micro Certificações
 <p align="center">
@@ -37,7 +36,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
-Realizar um planejamento estratégico para a reestruturação de um café colonial, que deseja diminuir suas operações e se transformar em um empório, trabalhando de maneira eficaz e com mais eficiência visando as necessidades dos clientes que esse nicho de mercado trás
+Realizar o desenvolvimento de um móvel de madeira
 
 # Funcionalidades e Demonstrações das Sprints
 
